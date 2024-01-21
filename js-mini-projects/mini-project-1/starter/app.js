@@ -11,21 +11,14 @@ function sumNum(a, b) {
   return a + b;
 }
 
-var iniSebuahVar = "var";
+var y = 20
+var x = 2
+var x = y + x;
+console.log(x)
 
+var iniSebuahVar = "var";
 IniSebuahVar = "hadeh";
 
-console.log(IniSebuahVar);
-
-var arr = [
-	"Bubur", 
-	"Bakmi", 
-	"Ayam", 
-	34, 
-	"300", 
-	"Sapi", 
-	"Barbeque", 
-	1922
-];
+console.log(iniSebuahVar);
 
  
