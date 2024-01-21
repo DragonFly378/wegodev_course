@@ -1,10 +1,8 @@
-var numberA = 100;
-numberA = 120
+var name = "hafiz";
 
-var numberB = numberA + 20
-numberB = "hadeh"
+var greeting = "Hello, assalamualaikum ";
 
-console.log(numberB)
+console.log(greeting + name);
 
 const projectTitle = document.querySelector("#project-title");
 projectTitle.textContent = "Title Baru dari JS File";
